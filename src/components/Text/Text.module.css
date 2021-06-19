@@ -1,0 +1,44 @@
+
+.defaultText {
+   font-size: 16px;
+}
+
+.smallText {
+    font-size: 12px;
+}
+
+.bigText {
+    font-size: 20px;
+}
+
+.text {
+    color: #424949;
+}
+
+.successText {
+    color:  #3EA33C;
+}
+
+.warningText {
+    color: #CEDD36;
+}
+
+.dangerText {
+    color: #DD3636;
+}
+
+.leftText {
+    text-align: left;
+}
+
+.rightText {
+    text-align: right;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.justifyText {
+    text-align: justify;
+}

@@ -1,0 +1,9 @@
+
+.defaultLink {
+    color: #424949;
+}
+
+.defaultLink:hover {
+    cursor: pointer;
+    color: black;
+}
